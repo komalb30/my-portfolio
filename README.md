@@ -11,7 +11,7 @@ A modern, responsive portfolio website built using HTML, CSS, and JavaScript. It
 <img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/image/image6.png"/>
 <img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/image/image7.png"/>
 <img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/image/image8.png"/> 
-
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/image/image9.png"/> 
 
 ### ✨ Features:
 - 🎨 Modern, responsive design with animated backgrounds
